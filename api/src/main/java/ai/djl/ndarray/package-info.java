@@ -13,7 +13,7 @@
 
 /**
  * Contains classes and interfaces that define an n-dimensional array.
- *
+ *把复杂的数据结构表达出来，很好的并行性，数学运算等很快
  * @see ai.djl.ndarray.NDArray
  * @see ai.djl.ndarray.NDManager
  */
